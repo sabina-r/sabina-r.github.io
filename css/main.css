@@ -1,0 +1,35 @@
+#background{
+	position:absolute;
+	left: 17%;
+	width: 83%;
+	height: 100%;
+	z-index: -1;
+}
+.my-button:hover{
+	color:pink;
+}
+form{
+	margin-top:5%;
+	color:gray;
+}
+.stroke {
+    font: 2em Arial, sans-serif;
+    text-shadow: #FC0 1px 0 10px;;
+}
+P {
+ border: 1px solid DarkMagenta; /* Толщина рамки в пикселах,
+                           тип границы (в данном случае сплошная линия) и
+                           цвет линии */
+ padding: 5px; /* Расстояние от текста до рамки */
+ border-radius: 10px; /* Радиус скругления */
+ text-decoration: underline; /* Добавляем подчеркивание */
+ box-shadow: 0 0 5px;
+}
+.row {
+ border: 2px solid DarkMagenta; /* Толщина рамки в пикселах,
+                           тип границы (в данном случае сплошная линия) и
+                           цвет линии */
+ padding: 5px; /* Расстояние от текста до рамки */
+ border-radius: 10px; /* Радиус скругления */
+ box-shadow: 5px 5px;
+}
